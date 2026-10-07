@@ -1,0 +1,11 @@
+Project Title:
+Little Lemon Food Ordering App — iOS Capstone
+
+Title:
+Little Lemon Food Ordering — SwiftUI Project and Home Wireframe
+
+Caption / Description:
+A SwiftUI food ordering app with three-page onboarding, a persistent editable profile, a searchable menu loaded from a REST API and saved in Core Data, category filters, dish details, and an order confirmation. The project includes the Home screen wireframe and instructions for running and reviewing the app in Xcode.
+
+GitHub Repository URL:
+https://github.com/yaroslavsts/little-lemon-ios-capstone
